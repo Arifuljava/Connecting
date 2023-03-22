@@ -1,2 +1,3 @@
+include ':app:bluetoothlibrary'
 include ':app'
 rootProject.name = "Connecting"
