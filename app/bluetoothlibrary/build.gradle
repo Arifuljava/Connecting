@@ -19,7 +19,7 @@ publishing {
 }
 android {
     compileSdkVersion 32
-    buildToolsVersion "33.0.2"
+   /// buildToolsVersion "33.0.2"
 
     defaultConfig {
         minSdkVersion 24
